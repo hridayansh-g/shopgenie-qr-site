@@ -20,6 +20,11 @@ An interactive and visually appealing web page to display product QR codes for t
 
 ---
 
+## 🔗 Live Project
+https://shopgenie.netlify.app/
+
+---
+
 ## 🧰 Tech Stack
 
 - **HTML5**  
