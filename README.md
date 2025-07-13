@@ -24,6 +24,10 @@ An interactive and visually appealing web page to display product QR codes for t
 https://shopgenie.netlify.app/
 
 ---
+## YouTube Video
+https://www.youtube.com/watch?v=3JlimatB304
+
+---
 
 ## 🧰 Tech Stack
 
